@@ -9,7 +9,5 @@
 </div>
 
 <a href="https://github.com/luankevinferreira">
-<img src="https://github-readme-stats.vercel.app/api?username=luankevinferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luankevinferreira&layout=compact&langs_count=7&theme=dark"/>
 <img src="https://github-profile-trophy.vercel.app/?username=luankevinferreira&theme=onedark"/>
 </a>
