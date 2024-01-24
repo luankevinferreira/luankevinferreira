@@ -1,0 +1,20 @@
+repo_name: luankevinferreira/luankevinferreira
+report_id: ba0fad5edac3c2a79c345be7c54ea360
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-24T00:05:16+00:00'
+requested_by: luankevinferreira
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/luankevinferreira/luankevinferreira
+  detection_source: Repo Metadata
