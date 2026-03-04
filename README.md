@@ -7,7 +7,3 @@
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank">
   </a> 
 </div>
-
-<a href="https://github.com/luankevinferreira">
-<img src="https://github-profile-trophy.vercel.app/?username=luankevinferreira&theme=onedark"/>
-</a>
