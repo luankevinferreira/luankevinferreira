@@ -1,9 +1,11 @@
-## Hi there 👋
-<div> 
-  <a href="https://www.linkedin.com/in/luankevinferreira" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  <a href="https://stackoverflow.com/users/4588977/luan-kevin-ferreira?tab=profile" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank">
-  </a> 
-</div>
+<h1 align="center">Hey there 👋</h1>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luankevinferreira&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luankevinferreira&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luankevinferreira&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luankevinferreira&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luankevinferreira&theme=dark&utcOffset=8)
+
+<p align="center">
+  <a href="https://linkedin.com/in/luankevinferreira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dklotz" height="20" width="20" /></a>
+</p>
