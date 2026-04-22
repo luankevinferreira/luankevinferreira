@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: April 2024
+Last updated: April 2026
 
 Patotas ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how your information is handled when you use our mobile application.
 
@@ -26,4 +26,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 ## 6. Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: [luan.ferreira@example.com](mailto:luan.ferreira@example.com)
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: [luankevinferreira@gmail.com](mailto:luankevinferreira@gmail.com)
