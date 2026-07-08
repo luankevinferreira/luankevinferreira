@@ -7,5 +7,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luankevinferreira&theme=dark&utcOffset=8)
 
 <p align="center">
-  <a href="https://linkedin.com/in/luankevinferreira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dklotz" height="20" width="20" /></a>
+  <a href="https://linkedin.com/in/luankevinferreira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luankevinferreira" height="20" width="20" /></a>
 </p>
